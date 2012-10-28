@@ -1,4 +1,4 @@
 pacman
 ======
 
-pacman exercise in opengl
+exercise in opengl
